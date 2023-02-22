@@ -1,7 +1,0 @@
-0x599dfc14	obmskm_gpio_is_valid	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
-0xf320265b	obmskm_gpio_request	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
-0x21db4a19	obmskm_gpio_set_value	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
-0xb78fed75	obmskm_gpio_get_value	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
-0x69f9722c	obmskm_gpio_direction_output	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
-0x6df29f78	obmskm_gpio_direction_input	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
-0xabd32746	obmskm_gpio_free	/home/pi/Desktop/obmskm_GPIO/obmskm_gpio	EXPORT_SYMBOL
